@@ -9,6 +9,8 @@ const datastore = new nedb({ filename: "mycoffeapp.db", autoload: true });
 const restApi = rest();
 restApi.addDatastore('coffees', datastore);
 
+console.log(`Server running at http:///`);
+
 app.use(cors());
 app.use('/', restApi);
 
