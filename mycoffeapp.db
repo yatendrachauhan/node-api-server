@@ -1,0 +1,6 @@
+{"name":"Best Americanno","place":"Daudpur","location":{"address":"Rajasthan","city":"Alwar","latitude":26.9124336,"longitude":75.7872709},"tastingRating":{},"type":"Americano","_id":"gBMn6AXNq4FnfLj6"}
+{"name":"Freep Espresso","place":"Daudpur","location":{"address":"Rajasthan","city":"Alwar","latitude":26.9124336,"longitude":75.7872709},"tastingRating":{},"type":"Espresso","rating":1,"_id":"gecYVLFUo7yS3ckC"}
+{"name":"Best Americanno","place":"Daudpur","location":{"address":"Rajasthan","city":"Alwar","latitude":26.9124336,"longitude":75.7872709},"tastingRating":{},"type":"Americano","_id":"gBMn6AXNq4FnfLj6","rating":2}
+{"name":"Best Americanno","place":"Daudpur","location":{"address":"Rajasthan","city":"Alwar","latitude":26.9124336,"longitude":75.7872709},"tastingRating":{"aroma":3,"flavor":3},"type":"Americano","_id":"gBMn6AXNq4FnfLj6","rating":2}
+{"name":"Best Americanno","place":"Daudpur","location":{"address":"Rajasthan","city":"Alwar","latitude":26.9124336,"longitude":75.7872709},"tastingRating":{"aroma":3,"flavor":3,"intensity":2},"type":"Americano","_id":"gBMn6AXNq4FnfLj6","rating":2}
+{"name":"Best Americanno","place":"Daudpur","location":{"address":"Rajasthan","city":"Alwar","latitude":26.9124336,"longitude":75.7872709},"tastingRating":{"aroma":3,"flavor":3,"intensity":2,"sweetness":4},"type":"Americano","_id":"gBMn6AXNq4FnfLj6","rating":2}
